@@ -15,6 +15,6 @@ It attempts to get the profile page of a website, if it fails it will normally r
 
 # How to add more emails
 
-1. You will need to find the user profile site for the page and have the status code for when it fails\
-2. Add the site to the list of sites called `sites` and add the fail request to the `bad_requests` list\
+1. You will need to find the user profile site for the page and have the status code for when it fails
+2. Add the site to the list of sites called `sites` and add the fail request to the `bad_requests` list
 3. You are also able to add more email extensions in the `emaillist` list (you only need the name not the .{something})
