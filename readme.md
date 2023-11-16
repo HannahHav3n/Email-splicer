@@ -9,7 +9,7 @@ It attempts to get the profile page of a website, if it fails it will normally r
 
 # Install
 
-1. Run `pip install -r requirements` to install the requirements necessary to run this\
+1. Run `pip install -r requirements` to install the requirements necessary to run this
 2. Run `python E-S.py` to run the script
 3. Input and email and watch the magic happen
 
